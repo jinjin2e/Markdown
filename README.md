@@ -37,11 +37,9 @@ Hello world
 
 <pre>
 <code>
-
 ```  
 Hello world
 ```  
-
 </pre>
 </code>   
 
