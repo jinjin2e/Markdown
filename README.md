@@ -35,13 +35,13 @@ Hello world
 
 ## 설명 블록
 
-<code><pre>
-
-  ```
-  Hello world
-  ```
-
-</code></pre>   
+</pre>
+</code>
+```
+Hello world
+```
+</pre>
+</code>   
 
 
 ```
