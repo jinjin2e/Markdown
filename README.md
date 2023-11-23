@@ -35,8 +35,8 @@ Hello world
 
 ## 설명 블록
 
-</pre>
-</code>
+<pre>
+<code>
 
 ```  
 Hello world
