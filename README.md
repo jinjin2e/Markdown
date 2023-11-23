@@ -62,6 +62,7 @@ Hello world
 >   >   > hello world 3nd 
 
 ## 목록 
+### 순서 있는 목록
 ```
 1. hello world 1
 3. hello world 3
@@ -73,3 +74,14 @@ Hello world
 3. hello world 3
 2. hello world 2
 4. hello world 4
+
+### 글머리 기호( 순서 없는 목록 )
+```
++ 가
+  * 나
+    - 다
+```
++ 다
+  * 나
+      - 다
+        
