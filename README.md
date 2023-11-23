@@ -86,4 +86,8 @@ Hello world
   * 나1
   * 나2
       - 다
-        
+
+
+[x]  first check
+[ ]  second check 
+[ ]  third check 
