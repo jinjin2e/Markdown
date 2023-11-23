@@ -87,7 +87,11 @@ Hello world
   * 나2
       - 다
 
-
+```
+- [x]  first check  
+- [ ]  second check  
+- [ ]  third check  
+```
 - [x]  first check  
 - [ ]  second check  
 - [ ]  third check  
