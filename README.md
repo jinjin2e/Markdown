@@ -88,6 +88,6 @@ Hello world
       - 다
 
 
-[x]  first check
-[ ]  second check 
-[ ]  third check 
+-[x]  first check  
+-[ ]  second check  
+-[ ]  third check  
